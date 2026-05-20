@@ -21,23 +21,36 @@ The suspect didn't just break in; they belonged.
 
 ---
 
-## INVESTIGATIVE LEAD: THE PEANUT TRAIL
+## THE INVESTIGATIVE LEAD
 
-Our only lead is a single photograph recovered from a cloud sync account. It shows "Peanut," the painted fiberglass elephant on campus, taken just hours before the theft. The metadata is our starting point.
+The lead didn't come from a magic scanner; it came from a standard Operating Procedure. 
 
-We have detected the suspect's mobile device (IMEI `356789045623781`) moving through the Seattle/Redmond area, along with a second device that seems to have converged with them at critical moments.
+At **23:51 UTC**, a silent pressure-drop alarm was triggered in Archive Vault A. The Global Security Operations Center (GSOC) immediately began an incident response. While physical teams were dispatched, a Digital Security Analyst performed a "Geofence Sweep"—a search for any public social media uploads within 500 meters of Building 34 in the preceding 60 minutes.
+
+The analyst found a Flickr upload of the "Peanut" sculpture, posted just minutes before the alarm. The account, `pnw_victor`, looked like a typical hobbyist, but a quick check of the metadata revealed a critical oversight: the **Artist** tag was set to `Victor Crane`. 
+
+Crane was a former Senior Archivist who had been "separated" from the company six months prior. By the time GSOC investigators tried to preserve the Flickr profile, the photo had been deleted. They only have the cached headers and the knowledge that a former insider was on the campus at the exact moment of the heist.
+
+---
+
+## THE SMOKING GUN: THE ABANDONED DEVICE
+
+On the morning of **March 27**, bar staff at **O'Brien's Irish Pub** in Bellevue found a high-end mobile device left in a back booth. Forensic extraction of the device (IMEI `490154203237518`) revealed a GPS track that ended at the pub.
+
+When this "Buyer's" track was overlaid with the "Suspect's" movements, investigators found a 16-minute convergence at a remote storage facility on Willows Road. 
 
 ---
 
 ## YOUR MISSION
 
-As a member of the **BlackCat Digital Investigation Unit**, you are tasked with reconstructing the timeline of the theft. You must track the suspect through the digital breadcrumbs they left across the Pacific Northwest — from the grunge venues of Seattle to the quiet corners of Redmond.
+As a member of the **BlackCat Digital Investigation Unit**, you must bridge the gap between the "Flickr Photographer" and the "Storage Drop." You are not just looking for a name; you are looking for the moment the "Genesis Document" changed hands.
 
 ### Assets Provided:
 *   [PARTICIPANT.md](PARTICIPANT.md) — Your primary case file and investigation log.
-*   `campus_photo.jpg` — The starting evidence.
-*   `cell_tower_log.csv` — Raw network telemetry.
-*   `suspect_gps.gpx` & `buyer_gps.gpx` — Forensic location data.
+*   `campus_photo.jpg` — The "deleted" Flickr evidence.
+*   `cell_tower_log.csv` — Carrier-leaked telemetry from the suspect device.
+*   `suspect_gps.gpx` — Data extracted from the suspect's linked cloud account.
+*   `buyer_gps.gpx` — Data recovered from the abandoned phone at the pub.
 
 ### Objective:
 1. Identify the suspect's identity.
