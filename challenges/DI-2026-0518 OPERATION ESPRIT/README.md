@@ -116,9 +116,9 @@ The suspect maintained a TripAdvisor reviewer profile under a username consisten
 
 **Q3.4** — What does the suspect describe as making the restaurant's location "convenient" in their review?
 
-**Q3.5** — The suspect posted a third review, for a pub in Bellevue, dated 27 March 2026. What is the name of that pub?
+**Q3.5** — The suspect posted a third review, for an Irish pub in Bellevue, dated 27 March 2026. What is the name of that pub?
 
-**Q3.6** — What phrase in the Bellevue pub review raises investigative concern?
+**Q3.6** — Visit the pub's official website. According to their "About" or "News" section, what are they now open for?
 
 ---
 
@@ -137,6 +137,8 @@ The suspect maintained a personal travel and technology blog. A post published i
 **Q4.3** — A comment on the post was left by user `altair_88`. What street name does this comment reference?
 
 **Q4.4** — What unit number does the `altair_88` comment reference?
+
+**Q4.5** — A second comment, posted later, provides instructions for the March 27 hand-off. What punny four-word phrase does the commenter use to describe the meeting spot at the market?
 
 ---
 
@@ -162,7 +164,7 @@ The attached file `cell_tower_log.csv` contains connection logs between 24 March
 
 Two GPS track files have been recovered from devices involved in this case:
 - **`suspect_gps.gpx`** — extracted from the primary suspect's iCloud backup
-- **`buyer_gps.gpx`** — extracted from a device found abandoned at O'Brien's Irish Pub by staff on 27 March 2026
+- **`buyer_gps.gpx`** — extracted from a device found abandoned at Paddy Coyne's Irish Pub by staff on 27 March 2026
 
 > **Investigator Note:** Load both files into a GPS analysis tool (GPX.Studio, Google Earth, QGIS, or similar). All timestamps are UTC — Seattle PDT = UTC−7. Overlay the two tracks and look for temporal and spatial proximity.
 
