@@ -1,0 +1,10 @@
+device_id,timestamp_utc,event,place_hint,latitude,longitude
+CASE-A,2026-10-13T01:16:40Z,photo metadata,Microsoft Visitor Center,47.64232,-122.13677
+CASE-A,2026-10-13T02:51:00Z,transit connection,Redmond Technology Station,47.64472,-122.13361
+CASE-B,2026-10-13T02:58:00Z,transit connection,Redmond Technology Station,47.64472,-122.13361
+CASE-A,2026-10-13T03:44:00Z,network event,Kirkland waterfront,47.67435,-122.20898
+CASE-B,2026-10-13T03:51:00Z,network event,Kirkland waterfront,47.67435,-122.20898
+CASE-A,2026-10-13T18:42:00Z,network event,Pike Place Market,47.60957,-122.34201
+CASE-B,2026-10-13T18:49:00Z,network event,Pike Place Market,47.60957,-122.34201
+CASE-A,2026-10-13T19:40:00Z,walk segment start,Seattle Center,47.620564,-122.350616
+CASE-B,2026-10-13T19:40:00Z,walk segment start,Seattle Center,47.620564,-122.350616

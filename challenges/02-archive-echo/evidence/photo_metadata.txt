@@ -1,0 +1,12 @@
+Preserved image metadata — evidence item AE-01
+
+File name: visitor_center_walk.jpg
+Camera Make: FIELDNOTE
+Camera Model: FN-X2
+Date/Time Original: 2026:10:13 01:16:40Z
+GPS Latitude: 47.64232 N
+GPS Longitude: 122.13677 W
+Artist: m.vale
+Image Description: Late light before the history walk
+
+The image, photographer, and event are fictional. The coordinates are a representative point for the public Microsoft Visitor Center area in Redmond, not a precise photograph position or restricted facility. See `district_guide.csv` for the public map reference.

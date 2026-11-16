@@ -1,3 +1,7 @@
+# ARCHIVED DRAFT — DO NOT USE FOR THE GROUP EXERCISE
+
+This legacy draft contains real-world locations and social-profile research. It has been superseded by the self-contained fictional challenge at [`challenges/02-archive-echo/`](../02-archive-echo/). Use only the replacement challenge for participant materials.
+
 # OPERATION BLACKCAT — CASE FILE
 ## "OPERATION ESPRIT"
 
